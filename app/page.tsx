@@ -39,20 +39,20 @@ export default function Home() {
 					solutions at{" "}
 					<Link
 						target="_blank"
-						href="https://upstash.com"
+						href="https://github.com"
 						className="underline duration-500 hover:text-zinc-300"
 					>
-						Upstash
+						GitHub
 					</Link>
 
 					<br />
 					and working on{" "}
 					<Link
 						target="_blank"
-						href="https://unkey.dev"
+						href="https://codemastermindhq.vercel.app/"
 						className="underline duration-500 hover:text-zinc-300"
 					>
-						unkey.dev
+						CMHQ
 					</Link>{" "}
 					at night.
 				</h2>
